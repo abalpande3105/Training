@@ -1,3 +1,2 @@
-This is one file.
-My name is dipak.
+ name is dipak.
 
